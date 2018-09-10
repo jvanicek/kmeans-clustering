@@ -27,7 +27,7 @@ def is_leap_year(year):
     
 def euclidean_distance(fv1,fv2):
     '''
-    Chacks for common features and Calcualtes the euclidean distance between two series objects.
+    Checks for common features and Calcualtes the euclidean distance between two series objects.
     Parameters:
         fv1 = feature vector 1
         fv2 = feature vector 2
